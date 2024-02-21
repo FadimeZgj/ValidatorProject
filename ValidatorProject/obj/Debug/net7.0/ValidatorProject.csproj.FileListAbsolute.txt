@@ -1,0 +1,15 @@
+/Users/fadime/Projects/ValidatorProject/ValidatorProject/bin/Debug/net7.0/ValidatorProject
+/Users/fadime/Projects/ValidatorProject/ValidatorProject/bin/Debug/net7.0/ValidatorProject.deps.json
+/Users/fadime/Projects/ValidatorProject/ValidatorProject/bin/Debug/net7.0/ValidatorProject.runtimeconfig.json
+/Users/fadime/Projects/ValidatorProject/ValidatorProject/bin/Debug/net7.0/ValidatorProject.dll
+/Users/fadime/Projects/ValidatorProject/ValidatorProject/bin/Debug/net7.0/ValidatorProject.pdb
+/Users/fadime/Projects/ValidatorProject/ValidatorProject/obj/Debug/net7.0/ValidatorProject.csproj.AssemblyReference.cache
+/Users/fadime/Projects/ValidatorProject/ValidatorProject/obj/Debug/net7.0/ValidatorProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fadime/Projects/ValidatorProject/ValidatorProject/obj/Debug/net7.0/ValidatorProject.AssemblyInfoInputs.cache
+/Users/fadime/Projects/ValidatorProject/ValidatorProject/obj/Debug/net7.0/ValidatorProject.AssemblyInfo.cs
+/Users/fadime/Projects/ValidatorProject/ValidatorProject/obj/Debug/net7.0/ValidatorProject.csproj.CoreCompileInputs.cache
+/Users/fadime/Projects/ValidatorProject/ValidatorProject/obj/Debug/net7.0/ValidatorProject.dll
+/Users/fadime/Projects/ValidatorProject/ValidatorProject/obj/Debug/net7.0/refint/ValidatorProject.dll
+/Users/fadime/Projects/ValidatorProject/ValidatorProject/obj/Debug/net7.0/ValidatorProject.pdb
+/Users/fadime/Projects/ValidatorProject/ValidatorProject/obj/Debug/net7.0/ValidatorProject.genruntimeconfig.cache
+/Users/fadime/Projects/ValidatorProject/ValidatorProject/obj/Debug/net7.0/ref/ValidatorProject.dll
